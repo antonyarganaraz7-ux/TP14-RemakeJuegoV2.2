@@ -1,5 +1,4 @@
 # TP14-RemakeJuegoV2.2
-# TP14-RemakeJuegoV2
 # Street Fighter
 
 Puedes acceder a la versión del juego en línea a través del siguiente enlace: [Juego Street Fighter](https://TU-USUARIO.github.io/TU-REPO-JUEGO/)
